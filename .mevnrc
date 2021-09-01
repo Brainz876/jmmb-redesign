@@ -2,7 +2,7 @@
   "name": "template-1",
   "template": "Default",
   "isConfigured": {
-    "client": false,
-    "server": false
+    "client": true,
+    "server": true
   }
 }
