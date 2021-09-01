@@ -5,6 +5,8 @@ node_modules
 # local env files
 .env.local
 .env.*.local
+/server/.env.local
+/server/.*.local
 
 # Log files
 npm-debug.log*
